@@ -1,0 +1,6 @@
+Add dockerfile
+Add redis
+Add tests
+Add minio to save pictures of rooms
+Add README.md
+Fix SecurityConfig
