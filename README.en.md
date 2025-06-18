@@ -1,7 +1,7 @@
 # Project Author
 ## Orlov Andrei
 
-# 🏨 Hotel API
+# 🏨 HOTEL-API
 
 The **Hotel API** is a backend service designed for managing hotel operations. It provides functionalities for handling bookings, user authentication, room management, inventory management, employee management, maintenance, reviews, and much more. This project is built with **Java** and follows modern development practices, including token-based authentication and role-based access control.
 
